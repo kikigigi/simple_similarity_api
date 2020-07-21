@@ -12,5 +12,5 @@ You need to install Docker Engine and Docker Compose to install the app and post
 Refer to docker docs for installion
 
 ## Running the test
-$sudo docker-compose build \\
+$sudo docker-compose build \
 $sudo docker-compose up
