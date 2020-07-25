@@ -9,7 +9,8 @@ These instructions will get you a copy of the project up and running on your loc
 You need to install Docker Engine and Docker Compose to install the app and postman to test the app.
 
 ## Installing
-Refer to docker docs for installion
+Docker Engine installation can be found here https://docs.docker.com/engine/install/
+Docker Compose installation can be found here https://docs.docker.com/compose/install/
 
 ## Running the test
 $sudo docker-compose build \
